@@ -1,0 +1,1 @@
+print("salo es ninfomana")
